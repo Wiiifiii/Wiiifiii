@@ -75,6 +75,6 @@ Open-source digital library platform built with Next.js, Prisma, and Supabase. F
 ## Current Focus
 Building my career in Data Analytics and Data Engineering while developing practical solutions with Python, SQL, Databricks, and cloud technologies.
 
-## 📫 Connect With Me
+## Connect With Me
 
 - LinkedIn: www.linkedin.com/in/wefky-h
