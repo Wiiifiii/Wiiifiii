@@ -2,9 +2,9 @@
 
 Bachelor of Engineering (Information Technology) from Savonia University of Applied Sciences.
 
-I am an aspiring Data Engineer with a strong interest in modern data platforms, cloud technologies, and data-driven solutions. I enjoy building data pipelines, working with databases, and learning new technologies that help organizations make better decisions from their data.
+I am a recent Information Technology graduate with a strong interest in Data Engineering, Data Analytics, cloud technologies, and modern data platforms. I enjoy building data pipelines, working with databases, and developing solutions that transform data into valuable insights.
 
-## 🚀 Currently Learning
+## Currently Learning
 
 * Databricks Data Engineer Learning Path
 * Microsoft Fabric Learning Path
@@ -12,61 +12,69 @@ I am an aspiring Data Engineer with a strong interest in modern data platforms, 
 * Modern Data Architecture
 * Cloud Data Platforms
 
-## 💻 Technical Skills
+## Technical Skills
 
-### Data Engineering
+### Programming & Development
+- Python
+- SQL
+- Java
+- TypeScript
+- JavaScript
+- C#
 
-* Databricks
-* Delta Lake
-* Data Pipelines
-* ETL / ELT
-* Data Modeling
+### Data Engineering & Analytics
+- Databricks
+- Delta Lake
+- ETL / ELT Concepts
+- Data Pipelines
+- Data Modeling
+- Data Analytics
 
-### Programming
+### Backend Development
+- Spring Boot
+- REST APIs
+- Node.js
 
-* Python
-* SQL
-* Java
-* C#
+### Frontend Development
+- React
+- Next.js
+- TypeScript
+- HTML
+- CSS
 
 ### Databases
-
-* PostgreSQL
-* MySQL
-* MongoDB
+- PostgreSQL
+- MySQL
+- MongoDB
+- Prisma ORM
 
 ### Cloud & DevOps
+- Microsoft Azure
+- Microsoft Fabric
+- Docker
+- AWS Fundamentals
 
-* Microsoft Azure
-* Docker
-* AWS Fundamentals
+### Tools & Methods
+- Git
+- Agile Methodologies
 
-### Web Development
+## Featured Projects
 
-* React
-* Next.js
-* TypeScript
-* JavaScript
-* Spring boot
+### [Databricks Medallion Architecture](https://github.com/Wiiifiii/spotify-static-historical_batch_data-pipeline-medallion-architecture.git)
+Data Engineering project implementing Bronze, Silver, and Gold layers using Databricks, PySpark, and Delta Lake. Demonstrates data ingestion, transformation, and analytics-ready datasets using the Medallion Architecture.
 
-## 📌 Featured Projects
+### Oppi Studio (Private repo)
+Bachelor's thesis project developed for Savonia University of Applied Sciences. Integrated with Moodle using the LTI 1.3 standard and built with React, Next.js, TypeScript, Prisma, Docker, and relational databases.
 
-### Databricks Medallion Architecture
+### [Python Data Analytics Project](https://github.com/Wiiifiii/python-data-analytics.git)
+Comprehensive data analytics project developed as part of a university course. Includes statistical analysis, data visualization, exploratory data analysis (EDA), and time series forecasting using Python.
 
-Data Engineering project implementing Bronze, Silver, and Gold layers using Databricks, PySpark, and Delta Lake.
+### [LONNROT-PROJECT-2025](https://github.com/Wiiifiii/LONNROT-PROJECT-2025.git)
+Open-source digital library platform built with Next.js, Prisma, and Supabase. Features user authentication, content management, downloading capabilities, an admin dashboard, and real-time usage statistics.
 
-### Oppi Studio
-
-Bachelor's thesis project developed for Savonia University of Applied Sciences. Integrated with Moodle through LTI 1.3 and built using React, Next.js, TypeScript, Prisma, Docker, and relational databases.
-
-## 🎯 Goals
-
-* Build practical Data Engineering projects
-* Earn the Databricks Certified Data Engineer Associate certification
-* Expand expertise in Microsoft Fabric and cloud data platforms
-* Start a professional career in Data Engineering
+## Current Focus
+Building my career in Data Analytics and Data Engineering while developing practical solutions with Python, SQL, Databricks, and cloud technologies.
 
 ## 📫 Connect With Me
 
-* LinkedIn: [Your LinkedIn URL]
-* GitHub: github.com/Wiiifiii
+- LinkedIn: www.linkedin.com/in/wefky-h
