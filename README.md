@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi, I'm Wefky👋
 
 Bachelor of Engineering (Information Technology) from Savonia University of Applied Sciences.
 
