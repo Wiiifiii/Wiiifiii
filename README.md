@@ -70,5 +70,5 @@ Building a career in **Data Analytics** and **Data Engineering**, with a strong 
 
 ---
 
-### 📫 Connect with me
+### 📫 Connect
 - LinkedIn: [linkedin.com/in/wefky-h](https://www.linkedin.com/in/wefky-hamed/)
