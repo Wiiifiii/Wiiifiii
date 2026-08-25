@@ -45,8 +45,7 @@ Git · GitHub · Docker · REST APIs · Linux
 ### 🚀 Featured Projects
 
 **[E-commerce Data Analytics – Python & PySpark](https://github.com/Wiiifiii/python-data-analytics.git)**  
-End-to-end analytics project covering data ingestion, cleaning, transformation, exploratory analysis, KPI development, and visualization using Python, PySpark, and Spark SQL.
-
+A comprehensive data analysis project demonstrating various statistical methods, data visualization techniques, and time series forecasting using Python. This project was developed as part of a Finnish university course on Python and data analytics.
 **[Power BI Data Analytics Projects](#)**  
 Projects focused on transforming raw business data into structured analytical models and interactive reports (Power Query, star-schema modeling, DAX measures, time intelligence, and business-focused dashboards).
 
