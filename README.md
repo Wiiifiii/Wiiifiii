@@ -79,4 +79,3 @@ Building my professional career in **Business Intelligence and Data Analytics**,
 
 **Bachelor of Engineering, Information Technology**  
 Savonia University of Applied Sciences, Finland — 2026
-"""
