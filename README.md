@@ -33,11 +33,7 @@ PostgreSQL · Git · GitHub
 
 ### 🚀 Featured Projects
 
-**[Power BI Business Intelligence Projects](#)**  
-Projects focused on turning raw business data into structured analytical models and interactive Power BI reports.  
-Key areas include Power Query, star-schema modeling, DAX measures, KPIs, time intelligence, and business-focused dashboards.
-
-**[E-commerce Data Analytics – Python, SQL & PySpark](https://github.com/Wiiifiii/python-data-analytics.git)**  
+**[Data Analytics – Python](https://github.com/Wiiifiii/python-data-analytics.git)**  
 Data analytics project developed as part of a Finnish university course. Includes data preparation, cleaning and transformation, SQL and PySpark analysis, KPI analysis, and data visualization.
 
 **[Double Materiality Assessment (DMA) Tool](https://dma-xi.vercel.app/)** – Bachelor’s Thesis  
