@@ -42,6 +42,8 @@ A data-driven web application combining data modeling, business requirements, da
 **[Databricks Medallion Architecture](https://github.com/Wiiifiii/spotify-static-historical_batch_data-pipeline-medallion-architecture.git)**  
 Data engineering project implementing Bronze, Silver, and Gold layers using Databricks, PySpark, and Delta Lake.
 
+**[Power BI Sales Performance Dashboard](https://github.com/Wiiifiii/PowerBI_MiniTask)**  
+Interactive dashboard for analyzing Finnish sales performance by seller, city, region, and time using Power BI.
 ---
 
 ### 💼 Professional Background
