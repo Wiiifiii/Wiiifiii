@@ -44,7 +44,7 @@ Data engineering project implementing Bronze, Silver, and Gold layers using Data
 
 **[Power BI Sales Performance Dashboard](https://github.com/Wiiifiii/PowerBI_MiniTask)**  
 Interactive dashboard for analyzing Finnish sales performance by seller, city, region, and time using Power BI.
----
+
 
 ### 💼 Professional Background
 
